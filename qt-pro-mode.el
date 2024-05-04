@@ -1,4 +1,4 @@
-;;; qt-pro-mode.el --- Qt Pro/Pri major mode
+;;; qt-pro-mode.el --- Qt Pro/Pri major mode -*- lexical-binding: t -*-
 ;;
 ;;; Copyright (C) 2007  Free Software Foundation, Inc.
 ;;
